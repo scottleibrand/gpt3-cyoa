@@ -37,6 +37,9 @@ Another form of completion we’ll need to figure out how to prompt GPT-3 to per
 https://andrewmayneblog.wordpress.com/2020/06/15/will-artificial-intelligence-ever-write-a-novel/
 https://twitter.com/gwern/status/1285017616592130052
 https://www.reddit.com/r/slatestarcodex/comments/hthoxy/how_does_gpt3_tie_into_the_old_hanson_vs/fyhki3q/
+"So, obviously GPT-3 can easily generate a Wikipedia-like summary of a 'novel' just by asking it for "A summary of the plot of X". And equally obviously, it can generate 1 or 2 pages of ground-level non-summary text which is totally plausible (eg my Methods of Rationality samples), just by giving it a title and some sample sentences as the prompt. The problem is writing prompts to connect them in between. You can probably get the overall summary done chapter by chapter, a few sentences per chapter, by adding appropriate formatting or prompts. The problem then becomes, how do you get several paragraphs of plot per chapter, and how do you expand those paragraphs out into the page-level completions? Will GPT-3 do chapter-level plot summaries the way it will top-level summaries with just a slight tweak to the prompt? Maybe.
+
+I think it's doable, likely, but it'll require a fair bit of elbow grease to work out the best formatting, write a nice little Python script to do it automatically so you don't spend weeks copy-pasting into Playground, and finetuning it."
 
 ### Simplify.so
 

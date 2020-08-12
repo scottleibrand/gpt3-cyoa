@@ -1,6 +1,13 @@
 # gpt3-cyoa
 Building a choose-your-own-adventure story generator using the GTP-3 API
 
+## Help wanted
+First and foremost, I don't yet have access to the OpenAI GPT-3 API. If you could get me an invite to use for the project, that would unblock a lot of experimentation.
+
+If you can't send invites but do have access to the GPT-3 API and would like to collaborate on this project, we'd love your assistance. We could, for example, set up a git workflow that allows you to check the repo for new prompts, run them through the API, and commit the results back.
+
+# Background idea
+
 ## GPT-3 context window limitation
 One of the key limitations of GPT-3 is its [small context window](https://www.gwern.net/GPT-3#small-context-window): 2048 BPE tokens, or roughly 500-1000 words. “This means it cannot hope to write anything of any serious length, because the beginning will soon vanish over the event horizon, and it also limits its ability to engage in few-shot learning, for the same reason: the prompt+generation will quickly exceed the window length.”
 

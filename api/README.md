@@ -1,0 +1,55 @@
+# gpt-3-experiments
+
+Copied from https://github.com/minimaxir/gpt-3-experiments
+
+## Script Usage
+
+![](console.png)
+
+If you have access to the OpenAI API, you can use the `openai_api.py` Python script to gather generated texts faster than using the web interface.
+
+First, download/clone the repo, and in the `config.yml`, set the `SECRET_KEY` to the one provided to you by the OpenAI API. (do not share with anyone!)
+
+The script (Python 3.6+) requires the installation of certain Python packages:
+
+```sh
+pip3 install httpx pyyaml fire tqdm
+```
+
+After that, you can run it from the command line. For example, if you wanted to generate text with the prompt "Once upon a time", you could do:
+
+```sh
+python3 openai_api.py "Once upon a time"
+```
+
+This will generate a file for each specified `temperature` in the `config.yml`.
+
+If you want to read a longer text from a file (e.g. `prompt.txt`, the default behavior), you can put that prompt in that file and run:
+
+```sh
+python3 openai_api.py "prompt.txt"
+```
+
+By default, the output files are _Markdown_ files, which allows them to include the prompt bolded and render better on GitHub. To save the output files as text instead (w/o the prompt), set:
+
+```sh
+python3 openai_api.py "prompt.txt" --markdown False
+```
+
+## Notes
+
+- The script uses synchronous requests by default with a 30 second sleep between requests: apparently the async approach which requested all generated texts simultaneously caused too much of a strain on OpenAI's infrastructure. Please uses that default for the time being.
+
+## Maintainer/Creator
+
+Max Woolf ([@minimaxir](https://minimaxir.com))
+
+_Max's open-source projects are supported by his [Patreon](https://www.patreon.com/minimaxir) and [GitHub Sponsors](https://github.com/sponsors/minimaxir). If you found this project helpful, any monetary contributions to the Patreon are appreciated and will be put to good creative use._
+
+## License
+
+MIT
+
+## Disclaimer
+
+This repo has no affiliation with OpenAI.

@@ -107,7 +107,7 @@ def gpt3_generate(
             gen_texts = []
             for _ in trange(n):
                 gen_texts.append(gpt3_query(headers, json.dumps(data), c["model"]))
-                time.sleep(30)
+                time.sleep(5)
 
         with open(output_file, "w", encoding="utf-8") as f:
             for gen_text in gen_texts:

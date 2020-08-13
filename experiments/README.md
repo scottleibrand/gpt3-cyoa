@@ -12,4 +12,4 @@ To avoid these issues, please place a file in this experiments directory with ea
 
 ## Automation
 
-Copying and pasting prompts and outputs will quickly get tedious, so we should develop some scripts that automate the process of calling the OpenAI API, recording the response, and checking it into git.
+To facilitate this, I've created a `runprompts.sh` script that calls @minimaxir's openai_api.py to run a given prompt at zero (deterministic) temperature and then 10 times each at three higher temperatures, and saves the output files to the experiment subdirectory.

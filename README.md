@@ -2,9 +2,11 @@
 Building a choose-your-own-adventure story generator using the GTP-3 API
 
 ## Help wanted
-First and foremost, I don't yet have access to the OpenAI GPT-3 API. If you could get me an invite to use for the project, that would unblock a lot of experimentation.
+First and foremost, I don't yet have access to the OpenAI GPT-3 API. Until I can get access to the API myself, I'll need help from those who do have access to the API who would like to collaborate on this project. Is that you?
 
-If you can't send invites but do have access to the GPT-3 API and would like to collaborate on this project, we'd love your assistance. We could, for example, set up a git workflow that allows you to check the repo for new prompts, run them through the API, and commit the results back.
+I've copied over the `openai_api.py` from https://github.com/minimaxir/gpt-3-experiments and created a `runprompts.sh` to run it.
+
+If you have API access and would like to help, please fork the repo, review and run runprompts.sh, and commit and PR the resulting output files.
 
 # Background idea
 

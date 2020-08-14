@@ -2,7 +2,7 @@ SECRET_KEY: <FILL IN>
 
 model: davinci
 num_generate: 10
-max_tokens: 100
+max_tokens: 512
 
 # Lists for loops
 models:

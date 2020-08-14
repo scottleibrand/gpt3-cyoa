@@ -1,3 +1,5 @@
+The following sections contain text samples, followed by summaries that abstract and preserve the ideas contained within the text.
+
 Text:
 Within two minutes, or even less, he had forgotten all his troubles. Not
 because his troubles were one whit less heavy and bitter to him than a
@@ -34,4 +36,4 @@ time.
 END OF TEXT
 
 Summary:
-Tom Practices Music and Spies a Newcomer
+Tom Practices Music and Spies a Newcomer -

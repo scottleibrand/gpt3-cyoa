@@ -5,8 +5,7 @@ Author: Mark Twain (Samuel Clemens)
 Title: The Adventures of Tom Sawyer
 
 Outline:
-CHAPTER I. Y-o-u-u Tom--Aunt Polly Decides Upon her Duty--Tom Practices
-Music--The Challenge--A Private Entrance
+CHAPTER I. Y-o-u-u Tom--Aunt Polly Decides Upon her Duty--Tom Practices Music--The Challenge--A Private Entrance
  Section 1. Y-o-u-u Tom
 
 Summary:
@@ -78,3 +77,19 @@ disappeared over it.
 
 END OF TEXT
 
+The following sections contain author, title, and outlines for context, followed by text summaries that abstract and preserve the ideas contained within a given section of text, followed by an expansion of those summaries into text consistent with the context and style of the larger work.
+
+Author: Mark Twain (Samuel Clemens)
+
+Title: The Adventures of Tom Sawyer
+
+Outline:
+CHAPTER I. Y-o-u-u Tom -- Aunt Polly Decides Upon her Duty -- Tom Practices Music -- The Challenge -- A Private Entrance
+ Section 2. Aunt Polly Decides Upon her Duty
+
+Summary:
+Aunt Polly Decides Upon her Duty - Aunt Polly stands surprised a moment, and then breaks into a gentle laugh. She decides that she must do her duty by her nephew, and that she will make him work the next day to punish him for playing hookey. She knows that he hates work more than anything else, and that she must do her duty by him.
+
+END OF SUMMARY
+
+Text:

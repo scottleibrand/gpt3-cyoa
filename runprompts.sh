@@ -18,4 +18,11 @@ for experiment in expand-text; do
         mv output* ../$dir/
     done
 done
+for experiment in extend-summaries; do
+    for scene in 3; do
+        dir=experiments/$experiment/tomsawyer/ch1sc$scene/
+        python3 openai_api.py ../$dir/prompt.txt
+        mv output* ../$dir/
+    done
+done
 cd -

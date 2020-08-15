@@ -1,0 +1,151 @@
+**The following sections contain author, title, and outlines for context, followed by text summaries that abstract and preserve the ideas contained within a given section of text, followed by an expansion of those summaries into text consistent with the context and style of the larger work.**
+
+**Author: Mark Twain (Samuel Clemens)**
+
+**Title: The Adventures of Tom Sawyer**
+
+**Outline:**
+**CHAPTER I. Y-o-u-u Tom -- Aunt Polly Decides Upon her Duty -- Tom Practices Music -- The Challenge -- A Private Entrance**
+** Section 1. Y-o-u-u Tom**
+
+**Summary:**
+**Y-o-u-u Tom - An old lady with barely-working spectacles calls angrily for a boy named Tom, searches through the house for him, **
+**steps outside into the tomato vines and “jimpson” weed garden, calls louder, hears him behind her in a pantry closet sneaking **
+**jam, and barely grabs him by his collar as he attempts to run away. She attempts to switch him, but he distracts her with a **
+**call of danger and escapes over a high board-fence.**
+
+**END OF SUMMARY**
+
+**Text:**
+**“TOM!”**
+
+**No answer.**
+
+**“TOM!”**
+
+**No answer.**
+
+**“What's gone with that boy,  I wonder? You TOM!”**
+
+**No answer.**
+
+**The old lady pulled her spectacles down and looked over them about the**
+**room; then she put them up and looked out under them. She seldom or**
+**never looked _through_ them for so small a thing as a boy; they were**
+**her state pair, the pride of her heart, and were built for “style,” not**
+**service--she could have seen through a pair of stove-lids just as well.**
+**She looked perplexed for a moment, and then said, not fiercely, but**
+**still loud enough for the furniture to hear:**
+
+**“Well, I lay if I get hold of you I'll--”**
+
+**She did not finish, for by this time she was bending down and punching**
+**under the bed with the broom, and so she needed breath to punctuate the**
+**punches with. She resurrected nothing but the cat.**
+
+**“I never did see the beat of that boy!”**
+
+**She went to the open door and stood in it and looked out among the**
+**tomato vines and “jimpson” weeds that constituted the garden. No Tom. So**
+**she lifted up her voice at an angle calculated for distance and shouted:**
+
+**“Y-o-u-u TOM!”**
+
+**There was a slight noise behind her and she turned just in time to seize**
+**a small boy by the slack of his roundabout and arrest his flight.**
+
+**“There! I might 'a' thought of that closet. What you been doing in**
+**there?”**
+
+**“Nothing.”**
+
+**“Nothing! Look at your hands. And look at your mouth. What _is_ that**
+**truck?”**
+
+**“I don't know, aunt.”**
+
+**“Well, I know. It's jam--that's what it is. Forty times I've said if you**
+**didn't let that jam alone I'd skin you. Hand me that switch.”**
+
+**The switch hovered in the air--the peril was desperate--**
+
+**“My! Look behind you, aunt!”**
+
+**The old lady whirled round, and snatched her skirts out of danger.**
+**The lad fled on the instant, scrambled up the high board-fence, and**
+**disappeared over it.**
+
+**END OF TEXT**
+
+**The following sections contain author, title, and outlines for context, followed by text summaries that abstract and preserve the ideas contained within a given section of text, followed by an expansion of those summaries into text consistent with the context and style of the larger work.**
+
+**Author: Mark Twain (Samuel Clemens)**
+
+**Title: The Adventures of Tom Sawyer**
+
+**Outline:**
+**CHAPTER I. Y-o-u-u Tom -- Aunt Polly Decides Upon her Duty -- Tom Practices Music -- The Challenge -- A Private Entrance**
+** Section 2. Aunt Polly Decides Upon her Duty**
+
+**Summary:**
+**Aunt Polly Decides Upon her Duty - Aunt Polly stands surprised a moment, and then breaks into a gentle laugh. She decides that she must do her duty by her nephew, and that she will make him work the next day to punish him for playing hookey. She knows that he hates work more than anything else, and that she must do her duty by him.**
+
+**END OF SUMMARY**
+
+**Text:**
+
+“Well, I lay if I get hold of you I'll--”
+
+She did not finish, for by this time she was bending down and punching
+under the bed with the broom, and so she needed breath to punctuate the
+punches with. She resurrected nothing but the cat.
+
+“I never did see the beat of that boy!”
+
+She went to the open door and stood in it and looked out among the
+tomato vines and “jimpson” weeds that constituted the garden. No Tom. So
+She lifted up her voice at an angle calculated for distance and shouted:
+
+“Y-o-u-u TOM!”
+
+There was a slight noise behind her and she turned just in time to seize
+a small boy by the slack of his roundabout and arrest his flight.
+
+“There! I might 'a' thought of that closet. What you been doing in
+there?”
+
+“Nothing.”
+
+“Nothing! Look at your hands. And look at your mouth. What _is_ that
+truck?”
+
+“I don't know, aunt.”
+
+“Well, I know. It's jam--that's what it is. Forty times I've said if you
+didn't let that jam alone I'd skin you. Hand me that switch.”
+
+The switch hovered in the air--the peril was desperate--
+
+“My! Look behind you, aunt!”
+
+The old lady whirled round, and snatched her skirts out of danger.
+The lad fled on the instant, scrambled up the high board-fence, and
+disappeared over it.
+
+END OF TEXT
+
+The following sections contain author, title, and outlines for context, followed by text summaries that abstract and preserve the ideas contained within a given section of text, followed by an expansion of those summaries into text consistent with the context and style of the larger work.
+
+Author: Mark Twain (Samuel Clemens)
+
+Title: The Adventures of Tom Sawyer
+
+Outline:
+CHAPTER I. Y-o-u-u Tom -- Aunt Polly Decides Upon her Duty -- Tom Practices Music -- The Challenge -- A Private Entrance
+ Section 3. Aunt Polly Decides Upon her Duty
+
+Summary:
+Aunt Polly Decides
+
+---
+

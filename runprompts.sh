@@ -10,6 +10,11 @@ for experiment in summarize-text; do
         python3 openai_api.py ../$dir/prompt.txt
         mv output* ../$dir/
     done
+    for part in a b c d e f; do
+        dir=experiments/$experiment/tomsawyer/ch2-$part/
+        python3 openai_api.py ../$dir/prompt.txt
+        mv output* ../$dir/
+    done
 done
 for experiment in expand-text; do
     for scene in 2; do
